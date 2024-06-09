@@ -6,13 +6,23 @@
 
 <h3 align="center">A passionate software developer, and aspiring Security Analyst</h3>
 
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a full stack web application developer from <b>Nigeria</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+
 <br/>
 
 <div align="center">
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **MERN, AWS**
+ 🌱 I’m currently learning **MERN and Python**
 
 ⚡ Fun fact: **I code while I sleep**
 
@@ -32,16 +42,6 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
-
 
 # 🛠 Tech Stack
 
@@ -61,33 +61,23 @@
 
   
 
-<!--
+
 <h2 align="center">
   Welcome to Al Siam World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
 
-<!--
+
 <p align="center">
   <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
- -->
+ 
 
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am a full stack web application developer from <b>Nigeria</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
 
 
 <!-- About Section -->
