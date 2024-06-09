@@ -67,7 +67,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Ohimoiza1205"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;Front%20End%20Developer;5%2B%20years%20of%20coding%20experience;Researching%20on%20quantum%20computing&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Ohimoiza1205"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;Full%20Stack%20Developer;5%2B%20years%20of%20coding%20experience;Researching%20on%20quantum%20computing&center=true&width=380&height=45"></a>
 </p>
 
 
