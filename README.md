@@ -14,12 +14,8 @@
     <br>
   </samp>
 </p>
-
-
 <br/>
-
-<div align="center">
- 
+<div align="center"> 
  🔭 I’m currently working on **an e-commerce website**
  
  🌱 I’m currently learning **MERN and Python** and making ongoing research in **Quantum computing**
@@ -59,8 +55,6 @@
 
 - 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
 
-  
-
 
 <h2 align="center">
   Welcome to Ohi's World!
@@ -70,7 +64,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Ohimoiza1205"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;Front%20End%20Developer;2%2B%20years%20of%20coding%20experience;Always%20researching%20on%20quantum%20computing&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Ohimoiza1205"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;Front%20End%20Developer;2%2B%20years%20of%20coding%20experience;Researching%20on%20quantum%20computing&center=true&width=380&height=45"></a>
 </p>
 
 
