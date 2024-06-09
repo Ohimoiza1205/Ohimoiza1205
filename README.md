@@ -20,9 +20,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **an e-commerce website**
  
- 🌱 I’m currently learning **MERN and Python**
+ 🌱 I’m currently learning **MERN and Python** and making ongoing research in **Quantum computing**
 
 ⚡ Fun fact: **I code while I sleep**
 
@@ -63,21 +63,15 @@
 
 
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to Ohi's World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
 
 
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/Ohimoiza1205"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;Front%20End%20Developer;2%2B%20years%20of%20coding%20experience;Always%20researching%20on%20quantum%20computing&center=true&width=380&height=45"></a>
 </p>
-
- 
-
-
-
-
 
 
 <!-- About Section -->
@@ -86,8 +80,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; Enjoy programming and sharing knowledge<br/><br/>
+ ❤️ &emsp; Love writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: omoiza@ttu.edu<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Ohimoiza1205/Ohimoiza1205/issues)
 
