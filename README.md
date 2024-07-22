@@ -9,7 +9,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web application developer from <b>Nigeria</b> 」
+    「 I am a full stack web application developer</b> 」
     <br>
     <br>
   </samp>
@@ -19,7 +19,7 @@
 
 <div align="center"> 
     
- 🔭 I’m currently working on **an e-commerce website**
+ 🔭 I’m currently working on **a food delivery application**
  
  🌱 I’m currently learning **MERN and Python** and making ongoing research in **Quantum computing**
 
