@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ohi+Moiza!;" />
 </h1>
 
-<h3 align="center">A passionate software developer, and aspiring Security Analyst</h3>
+<h3 align="center">Software developer, and aspiring Security Analyst</h3>
 
 <p align="center"> 
   <samp>
@@ -21,9 +21,9 @@
     
  🔭 I’m currently working on **a food delivery application**
  
- 🌱 I’m currently learning **MERN and Python** and making ongoing research in **Quantum computing**
+ 🌱 I’m currently learning **MERN and Python**
 
-⚡ Fun fact: **I code while I sleep**
+⚡ Fun fact: **I code, eat, sleep, and repeat**
 
  </div>
  
@@ -46,7 +46,7 @@
 
 > skills
 
-- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
+- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)
 
 - 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
 
