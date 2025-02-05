@@ -21,7 +21,7 @@
     
  🔭 I’m currently working on **a food delivery application**
  
- 🌱 I’m currently learning **MERN and Python**
+ 🌱 I’m currently learning **MERN stack**
 
 ⚡ Fun fact: **I code, eat, sleep, and repeat**
 
