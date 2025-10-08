@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ohimoiza1205.ohimoiza1205" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ohimoiza1205.ohimoiza1205" alt="Profile Views" />
 </div>
 
 <h3 align="center">Full Stack Developer | Co-Founder @ Pasoma | Technology Consultant</h3>
@@ -19,7 +19,8 @@
 
 ## About Me
 
-Building scalable web applications and exploring the intersection of software development and cybersecurity. Currently leading growth initiatives at **[Pasoma](https://www.npmjs.com/package/pasoma)**, where we're revolutionizing package management workflows.
+- Building scalable web applications and exploring the intersection of software development and finance.
+- Currently leading growth initiatives at **[Pasoma](https://www.npmjs.com/package/pasoma)**
 
 ```typescript
 const ohi = {
@@ -145,7 +146,6 @@ Building a gamified competitive programming platform. Focuses on scalability and
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ohimoiza1205&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ohimoiza1205.ohimoiza1205" alt="Profile Views" />
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
