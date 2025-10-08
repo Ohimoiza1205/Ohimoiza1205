@@ -1,118 +1,149 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ohimoiza1205.ohimoiza1205" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ohi+Moiza!;" />
+</div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ohi+Moiza!;" />
-</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ohimoiza1205.ohimoiza1205" alt="Visitors" />
+</div>
 
-<h3 align="center">Software developer, and aspiring Security Analyst</h3>
+<h3 align="center">Full Stack Developer | Co-Founder @ Pasoma | Aspiring Security Analyst</h3>
 
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am a full stack web application developer</b> 」
-    <br>
-    <br>
-  </samp>
+<p align="center">
+  <a href="mailto:omoiza@ttu.edu"><img src="https://img.shields.io/badge/Email-omoiza%40ttu.edu-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/ohinoyi-moiza"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://ohimoiza1205.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.npmjs.com/package/pasoma"><img src="https://img.shields.io/badge/NPM-Pasoma-CB3837?style=flat-square&logo=npm"></a>
 </p>
 
-<br/>
+---
 
-<div align="center"> 
-    
- 🔭 I’m currently working on **a food delivery application**
- 
- 🌱 I’m currently learning **MERN stack**
+## About Me
 
-⚡ Fun fact: **I code, eat, sleep, and repeat**
+Building scalable web applications and exploring the intersection of software development and cybersecurity. Currently leading growth initiatives at **[Pasoma](https://www.npmjs.com/package/pasoma)**, where we're revolutionizing package management workflows.
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:ohimoiza12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ohinoyi-moiza" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://ohimoiza1205.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+```typescript
+const ohi = {
+  role: "Full Stack Developer",
+  company: "Pasoma (Co-Founder, Growth & Strategy)",
+  education: "Texas Tech University",
+  currentFocus: ["MERN Stack", "Statistical Analysis", "Open Source"],
+  experience: "3+ years in software development"
+};
+```
+
+**What I'm Up To:**
+- Building production-ready applications with modern JavaScript frameworks
+- Contributing to open-source projects and maintaining Pasoma
+
+---
+
+## Tech Stack
+
+### Core Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## Featured Projects
+
+### [Pasoma](https://www.npmjs.com/package/pasoma)
+**Co-Founder | Growth & Strategy Lead**
+
+A powerful NPM package designed to streamline package management and development workflows. Leading strategic initiatives to expand user adoption and community engagement.
+
+### Food Delivery Application
+**MERN Stack | In Development**
+
+Building a full-featured food delivery platform with real-time order tracking, payment integration, and responsive design. Focuses on scalability and optimal user experience.
+
+<div align="center">
+  <a href="https://github.com/Ohimoiza1205?tab=repositories">
+    <img src="https://img.shields.io/badge/-View%20All%20Projects-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
   </a>
 </div>
 
- <hr/>
- 
+---
 
-# 🛠 Tech Stack
+## GitHub Stats
 
-> skills
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ohimoiza1205&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohimoiza1205&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+</div>
 
-- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ohimoiza1205&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
+---
 
-- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
+## Latest Activity
 
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)![Gitee](https://img.shields.io/badge/-Gitee-red?style=flat-circle&logo=Gitee)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-- 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
+---
 
-- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
+## Connect With Me
 
-
-<h2 align="center">
-  Welcome to Ohi's World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-
-<p align="center">
-  <a href="https://github.com/Ohimoiza1205"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;Full%20Stack%20Developer;3%2B%20years%20of%20coding%20experience;Researching%20on%20quantum%20computing&center=true&width=380&height=45"></a>
-</p>
-
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<div align="center">
   
- ✌️ &emsp; Enjoy programming and sharing knowledge<br/><br/>
- ❤️ &emsp; Love writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: omoiza@ttu.edu<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Ohimoiza1205/Ohimoiza1205/issues)
+**Open to collaborations, freelance opportunities, and tech discussions**
 
-</p>
+<a href="mailto:omoiza@ttu.edu">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/ohinoyi-moiza">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://ohimoiza1205.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://github.com/Ohimoiza1205/Ohimoiza1205/issues">
+  <img src="https://img.shields.io/badge/Ask_Me_Anything-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
-<br/>
-<br/>
+</div>
 
-## Use To Code
+---
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
-
-<p align="left">
-  <a href="https://github.com/Ohimoiza1205?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ohimoiza1205&style=flat-square&color=blue" alt="Profile Views" />
+  
+  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
+</div>
