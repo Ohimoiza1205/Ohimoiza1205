@@ -6,10 +6,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ohimoiza1205.ohimoiza1205" alt="Visitors" />
 </div>
 
-<h3 align="center">Full Stack Developer | Co-Founder @ Pasoma | Aspiring Security Analyst</h3>
+<h3 align="center">Full Stack Developer | Co-Founder @ Pasoma | Technology Consultant</h3>
 
 <p align="center">
-  <a href="mailto:omoiza@ttu.edu"><img src="https://img.shields.io/badge/Email-omoiza%40ttu.edu-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:ohimoiza12@gmail.com"><img src="https://img.shields.io/badge/Email-ohimoiza12%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://linkedin.com/in/ohinoyi-moiza"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://ohimoiza1205.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.npmjs.com/package/pasoma"><img src="https://img.shields.io/badge/NPM-Pasoma-CB3837?style=flat-square&logo=npm"></a>
@@ -26,7 +26,8 @@ const ohi = {
   role: "Full Stack Developer",
   company: "Pasoma (Co-Founder, Growth & Strategy)",
   education: "Texas Tech University",
-  currentFocus: ["MERN Stack", "Statistical Analysis", "Open Source"],
+  currentFocus: ["MERN Stack", "Technology Consulting", "AI & Data"],
+  research: "Loading...",
   experience: "3+ years in software development"
 };
 ```
@@ -34,6 +35,7 @@ const ohi = {
 **What I'm Up To:**
 - Building production-ready applications with modern JavaScript frameworks
 - Contributing to open-source projects and maintaining Pasoma
+- Researching...
 
 ---
 
@@ -84,12 +86,12 @@ const ohi = {
 ### [Pasoma](https://www.npmjs.com/package/pasoma)
 **Co-Founder | Growth & Strategy Lead**
 
-A powerful NPM package designed to streamline package management and development workflows. Leading strategic initiatives to expand user adoption and community engagement.
+Pasoma is building Al for software deployment.
 
-### Food Delivery Application
+### [CodeClash](https://github.com/Ohimoiza1205/Code-Clash)
 **MERN Stack | In Development**
 
-Building a full-featured food delivery platform with real-time order tracking, payment integration, and responsive design. Focuses on scalability and optimal user experience.
+Building a gamified competitive programming platform. Focuses on scalability and optimal user experience.
 
 <div align="center">
   <a href="https://github.com/Ohimoiza1205?tab=repositories">
@@ -125,7 +127,7 @@ Building a full-featured food delivery platform with real-time order tracking, p
   
 **Open to collaborations, freelance opportunities, and tech discussions**
 
-<a href="mailto:omoiza@ttu.edu">
+<a href="mailto:ohimoiza12@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/ohinoyi-moiza">
@@ -144,6 +146,7 @@ Building a full-featured food delivery platform with real-time order tracking, p
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ohimoiza1205&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ohimoiza1205.ohimoiza1205" alt="Profile Views" />
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 </div>
