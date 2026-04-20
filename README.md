@@ -19,23 +19,23 @@
 
 ## About Me
 
-- Building scalable web applications and exploring the intersection of software development and finance.
-- Currently leading growth initiatives at **[Pasoma](https://www.npmjs.com/package/pasoma)**
+- Building **[SELT](https://www.seltapp.com)**
+- Led growth initiatives at **[Pasoma](https://www.npmjs.com/package/pasoma)**
 
 ```typescript
 const ohi = {
-  role: "Full Stack Developer",
-  company: "Pasoma (Co-Founder, Growth & Strategy)",
+  role: "CEO",
+  company: "SELT (College Marketplace, Co-Founder)",
   education: "Texas Tech University",
   currentFocus: ["MERN Stack", "Technology Consulting", "AI & Data"],
   research: "Loading...",
-  experience: "3+ years in software development"
+  experience: "4+ years in software development"
 };
 ```
 
 **What I'm Up To:**
 - Building production-ready applications with modern JavaScript frameworks
-- Contributing to open-source projects and maintaining Pasoma
+- Contributing to open-source projects and maintaining SELT
 - Researching...
 
 ---
@@ -83,6 +83,9 @@ const ohi = {
 ---
 
 ## Featured Projects
+
+### [SELT](https://www.seltapp.com)
+**Co-Founder | CEO**
 
 ### [Pasoma](https://www.npmjs.com/package/pasoma)
 **Co-Founder | Growth & Strategy Lead**
