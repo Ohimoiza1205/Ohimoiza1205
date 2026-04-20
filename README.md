@@ -6,7 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ohimoiza1205.ohimoiza1205" alt="Profile Views" />
 </div>
 
-<h3 align="center">Full Stack Developer | Co-Founder @ Pasoma | Technology Consultant</h3>
+<h3 align="center">Builder | Co-Founder @ SELT | Technology Consultant</h3>
 
 <p align="center">
   <a href="mailto:ohimoiza12@gmail.com"><img src="https://img.shields.io/badge/Email-ohimoiza12%40gmail.com-red?style=flat-square&logo=gmail"></a>
